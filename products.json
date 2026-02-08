@@ -382,7 +382,7 @@
       "name": "Capsicum",
       "category": "vegetables",
       "description": "Fresh green capsicum for cooking.",
-      "image": "https://images.unsplash.com/photo-1566389518863-5d6d6c3d1c1a?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": "https://images.unsplash.com/photo-1609869882537-6a860e45a0d6?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZnJlc2glMjBjYXBzaWN1bXxlbnwwfHwwfHx8MA%3D%3D",
       "availability": "in-stock",
       "priceOptions": [
         {
@@ -400,10 +400,11 @@
           "price": 30,
           "unit": "piece"
         }
-      ]
+      ],
+      "defaultUnit": "kg"
     }
   ],
-  "lastUpdated": "2026-02-08T17:45:43.349Z",
+  "lastUpdated": "2026-02-08T17:46:26.306Z",
   "updatedBy": "Saturo Gojo",
   "totalProducts": 16
 }
