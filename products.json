@@ -331,7 +331,7 @@
       "name": "Carrots",
       "category": "vegetables",
       "description": "Fresh orange carrots, perfect for salads and cooking.",
-      "image": "https://images.unsplash.com/photo-1598170845058-78131a90f4a6?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZnJlc2glMjBjYXJyb3RzfGVufDB8fDB8fHww",
       "availability": "in-stock",
       "priceOptions": [
         {
@@ -349,7 +349,8 @@
           "price": 25,
           "unit": "250g"
         }
-      ]
+      ],
+      "defaultUnit": "kg"
     },
     {
       "id": 15,
@@ -402,7 +403,7 @@
       ]
     }
   ],
-  "lastUpdated": "2026-02-08T17:13:51.141Z",
-  "updatedBy": "Admin",
+  "lastUpdated": "2026-02-08T17:45:43.349Z",
+  "updatedBy": "Saturo Gojo",
   "totalProducts": 16
 }
