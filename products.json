@@ -358,7 +358,7 @@
       "category": "fruits",
       "description": "Sweet and juicy strawberries.",
       "image": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
-      "availability": "seasonal",
+      "availability": "out-of-stock",
       "priceOptions": [
         {
           "label": "Per kg",
@@ -375,7 +375,8 @@
           "price": 420,
           "unit": "500g"
         }
-      ]
+      ],
+      "defaultUnit": "kg"
     },
     {
       "id": 16,
@@ -404,7 +405,7 @@
       "defaultUnit": "kg"
     }
   ],
-  "lastUpdated": "2026-02-08T17:46:26.306Z",
-  "updatedBy": "Saturo Gojo",
+  "lastUpdated": "2026-02-08T17:50:25.506Z",
+  "updatedBy": "Admin",
   "totalProducts": 16
 }
