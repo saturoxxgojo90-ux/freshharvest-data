@@ -426,9 +426,35 @@
         }
       ],
       "defaultUnit": "kg"
+    },
+    {
+      "id": 18,
+      "name": "Garlic",
+      "category": "vegetables",
+      "description": "Pungent garlic with rich aroma and flavor.",
+      "image": "https://media.istockphoto.com/id/1340230644/photo/closeup-of-garlic-bulbs-on-wooden-table-with-garlics-blur-background-a-set-of-fresh-garlic-on.webp?a=1&b=1&s=612x612&w=0&k=20&c=cl_v9XHY9uZBXX8E0-kCnF-agmx8ZtT4-KcraQrkuMQ=",
+      "availability": "in-stock",
+      "priceOptions": [
+        {
+          "label": "Per kg",
+          "price": 250,
+          "unit": "kg"
+        },
+        {
+          "label": "Half kg",
+          "price": 125,
+          "unit": "500g"
+        },
+        {
+          "label": "250g",
+          "price": 69,
+          "unit": "250g"
+        }
+      ],
+      "defaultUnit": "kg"
     }
   ],
-  "lastUpdated": "2026-02-09T12:46:30.488Z",
+  "lastUpdated": "2026-02-09T12:51:57.263Z",
   "updatedBy": "Saturo Gojo",
-  "totalProducts": 17
+  "totalProducts": 18
 }
