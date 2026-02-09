@@ -102,7 +102,7 @@
     },
     {
       "id": 5,
-      "name": "Oranges",
+      "name": "Oranges (Kino)",
       "category": "fruits",
       "description": "Juicy oranges rich in Vitamin C.",
       "image": "https://images.unsplash.com/photo-1547514701-42782101795e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
@@ -123,7 +123,8 @@
           "price": 100,
           "unit": "500g"
         }
-      ]
+      ],
+      "defaultUnit": "kg"
     },
     {
       "id": 6,
@@ -405,7 +406,7 @@
       "defaultUnit": "kg"
     }
   ],
-  "lastUpdated": "2026-02-09T10:36:47.793Z",
+  "lastUpdated": "2026-02-09T10:36:55.620Z",
   "updatedBy": "Saturo Gojo",
   "totalProducts": 16
 }
