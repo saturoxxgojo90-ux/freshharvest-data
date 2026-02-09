@@ -378,35 +378,9 @@
         }
       ],
       "defaultUnit": "kg"
-    },
-    {
-      "id": 16,
-      "name": "Capsicum",
-      "category": "vegetables",
-      "description": "Fresh green capsicum for cooking.",
-      "image": "https://images.unsplash.com/photo-1609869882537-6a860e45a0d6?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZnJlc2glMjBjYXBzaWN1bXxlbnwwfHwwfHx8MA%3D%3D",
-      "availability": "in-stock",
-      "priceOptions": [
-        {
-          "label": "Per kg",
-          "price": 120,
-          "unit": "kg"
-        },
-        {
-          "label": "Half kg",
-          "price": 65,
-          "unit": "500g"
-        },
-        {
-          "label": "1 Piece",
-          "price": 30,
-          "unit": "piece"
-        }
-      ],
-      "defaultUnit": "kg"
     }
   ],
-  "lastUpdated": "2026-02-09T10:36:55.620Z",
+  "lastUpdated": "2026-02-09T10:37:40.259Z",
   "updatedBy": "Saturo Gojo",
-  "totalProducts": 16
+  "totalProducts": 15
 }
