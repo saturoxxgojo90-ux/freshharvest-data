@@ -453,9 +453,30 @@
         }
       ],
       "defaultUnit": "kg"
+    },
+    {
+      "id": 19,
+      "name": "Eggplant (Baigan)",
+      "category": "vegetables",
+      "description": "Fresh eggplant, enhance taste.",
+      "image": "https://media.istockphoto.com/id/1328668312/photo/whole-eggplant-on-wooden-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=41e1ywWjW-MpbKaFjNQ7LxVlCJ9kP079FMqHPEjmhJI=",
+      "availability": "in-stock",
+      "priceOptions": [
+        {
+          "label": "Per kg",
+          "price": 250,
+          "unit": "kg"
+        },
+        {
+          "label": "Half kg",
+          "price": 130,
+          "unit": "500g"
+        }
+      ],
+      "defaultUnit": "kg"
     }
   ],
-  "lastUpdated": "2026-02-09T12:54:55.616Z",
+  "lastUpdated": "2026-02-11T15:27:12.659Z",
   "updatedBy": "Saturo Gojo",
-  "totalProducts": 18
+  "totalProducts": 19
 }
