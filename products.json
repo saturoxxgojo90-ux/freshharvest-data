@@ -476,7 +476,11 @@
       "defaultUnit": "kg"
     }
   ],
-  "lastUpdated": "2026-02-11T15:27:12.659Z",
-  "updatedBy": "Saturo Gojo",
+  "settings": {
+    "deliveryCharge": 100,
+    "lastUpdated": "2026-02-12T14:30:00.779Z"
+  },
+  "lastUpdated": "2026-02-12T14:30:00.780Z",
+  "updatedBy": "Taha",
   "totalProducts": 19
 }
