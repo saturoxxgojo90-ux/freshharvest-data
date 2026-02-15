@@ -116,7 +116,7 @@
         },
         {
           "label": "1 Dozen",
-          "price": 600,
+          "price": 400,
           "unit": "dozen"
         },
         {
@@ -476,7 +476,7 @@
       "defaultUnit": "kg"
     }
   ],
-  "lastUpdated": "2026-02-15T08:39:58.377Z",
+  "lastUpdated": "2026-02-15T08:40:19.606Z",
   "updatedBy": "Admin",
   "totalProducts": 19
 }
