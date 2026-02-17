@@ -162,12 +162,12 @@
       "priceOptions": [
         {
           "label": "1 Dozen",
-          "price": 250,
+          "price": 230,
           "unit": "dozen"
         },
         {
           "label": "Half Dozen",
-          "price": 74,
+          "price": 119,
           "unit": "half-dozen"
         }
       ],
@@ -476,7 +476,7 @@
       "defaultUnit": "kg"
     }
   ],
-  "lastUpdated": "2026-02-15T08:40:43.066Z",
+  "lastUpdated": "2026-02-17T14:44:26.491Z",
   "updatedBy": "Admin",
   "totalProducts": 19
 }
