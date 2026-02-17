@@ -110,22 +110,17 @@
       "availability": "seasonal",
       "priceOptions": [
         {
-          "label": "Per kg",
-          "price": 180,
-          "unit": "kg"
-        },
-        {
           "label": "1 Dozen",
-          "price": 400,
+          "price": 379,
           "unit": "dozen"
         },
         {
           "label": "Half kg",
-          "price": 100,
+          "price": 179,
           "unit": "500g"
         }
       ],
-      "defaultUnit": "kg"
+      "defaultUnit": "dozen"
     },
     {
       "id": 6,
@@ -476,7 +471,7 @@
       "defaultUnit": "kg"
     }
   ],
-  "lastUpdated": "2026-02-17T14:44:26.491Z",
+  "lastUpdated": "2026-02-17T14:45:26.006Z",
   "updatedBy": "Admin",
   "totalProducts": 19
 }
