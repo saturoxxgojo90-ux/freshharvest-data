@@ -1,5 +1,32 @@
 {
-  "orders": [],
-  "lastUpdated": "2026-02-19T10:00:00.000Z",
-  "totalOrders": 0
+  "orders": [
+    {
+      "orderId": "FH-124459420",
+      "customerName": "Saturo Gojo",
+      "customerEmail": "saturoxxgojo90@gmail.com",
+      "customerPhone": "0",
+      "customerAddress": "hello",
+      "customerCity": "Other",
+      "customerNotes": "",
+      "paymentMethod": "Cash on Delivery",
+      "items": [
+        {
+          "id": 8,
+          "name": "Spinach",
+          "price": 50,
+          "quantity": 2,
+          "unit": "kg",
+          "totalPrice": 100
+        }
+      ],
+      "subtotal": 100,
+      "delivery": 50,
+      "total": 150,
+      "timestamp": "2026-02-19T11:38:44.459Z",
+      "status": "pending",
+      "userId": "112063331194177169196"
+    }
+  ],
+  "lastUpdated": "2026-02-19T11:38:46.984Z",
+  "totalOrders": 1
 }
