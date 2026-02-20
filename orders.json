@@ -25,8 +25,34 @@
       "timestamp": "2026-02-19T11:38:44.459Z",
       "status": "pending",
       "userId": "112063331194177169196"
+    },
+    {
+      "orderId": "FH-114787157",
+      "customerName": "Saturo Gojo",
+      "customerEmail": "saturoxxgojo90@gmail.com",
+      "customerPhone": "0300 1234567",
+      "customerAddress": "kcp colony",
+      "customerCity": "Other",
+      "customerNotes": "",
+      "paymentMethod": "Cash on Delivery",
+      "items": [
+        {
+          "id": 2,
+          "name": "Apples",
+          "price": 1000,
+          "quantity": 1,
+          "unit": "dozen",
+          "totalPrice": 1000
+        }
+      ],
+      "subtotal": 1000,
+      "delivery": 100,
+      "total": 1100,
+      "timestamp": "2026-02-20T02:21:54.787Z",
+      "status": "pending",
+      "userId": "112063331194177169196"
     }
   ],
-  "lastUpdated": "2026-02-19T11:38:46.984Z",
-  "totalOrders": 1
+  "lastUpdated": "2026-02-20T02:21:57.552Z",
+  "totalOrders": 2
 }
