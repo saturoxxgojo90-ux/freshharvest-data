@@ -178,7 +178,7 @@
       "priceOptions": [
         {
           "label": "Per kg",
-          "price": 50,
+          "price": 100,
           "unit": "kg"
         },
         {
@@ -191,7 +191,8 @@
           "price": 15,
           "unit": "250g"
         }
-      ]
+      ],
+      "defaultUnit": "kg"
     },
     {
       "id": 9,
@@ -471,7 +472,7 @@
       "defaultUnit": "kg"
     }
   ],
-  "lastUpdated": "2026-02-17T14:45:26.006Z",
+  "lastUpdated": "2026-02-20T02:28:41.111Z",
   "updatedBy": "Admin",
   "totalProducts": 19
 }
