@@ -68,13 +68,9 @@
           "label": "Half kg",
           "price": 55,
           "unit": "500g"
-        },
-        {
-          "label": "1 Piece",
-          "price": 10,
-          "unit": "piece"
         }
-      ]
+      ],
+      "defaultUnit": "kg"
     },
     {
       "id": 4,
@@ -469,7 +465,7 @@
       "defaultUnit": "kg"
     }
   ],
-  "lastUpdated": "2026-02-23T14:07:57.580Z",
+  "lastUpdated": "2026-02-23T14:08:57.567Z",
   "updatedBy": "Saghir Hussain",
   "totalProducts": 19
 }
