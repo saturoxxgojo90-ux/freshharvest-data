@@ -193,20 +193,16 @@
       "priceOptions": [
         {
           "label": "Per kg",
-          "price": 300,
+          "price": 250,
           "unit": "kg"
         },
         {
-          "label": "1 Dozen",
-          "price": 1000,
-          "unit": "dozen"
-        },
-        {
           "label": "Half kg",
-          "price": 160,
+          "price": 130,
           "unit": "500g"
         }
-      ]
+      ],
+      "defaultUnit": "kg"
     },
     {
       "id": 10,
@@ -452,7 +448,7 @@
       "defaultUnit": "kg"
     }
   ],
-  "lastUpdated": "2026-02-23T14:17:53.525Z",
+  "lastUpdated": "2026-02-23T14:19:18.476Z",
   "updatedBy": "Admin",
   "totalProducts": 19
 }
