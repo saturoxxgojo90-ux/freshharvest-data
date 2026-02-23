@@ -431,17 +431,17 @@
       "priceOptions": [
         {
           "label": "Per kg",
-          "price": 250,
+          "price": 379,
           "unit": "kg"
         },
         {
           "label": "Half kg",
-          "price": 125,
+          "price": 189,
           "unit": "500g"
         },
         {
           "label": "250g",
-          "price": 69,
+          "price": 99,
           "unit": "250g"
         }
       ],
@@ -469,7 +469,7 @@
       "defaultUnit": "kg"
     }
   ],
-  "lastUpdated": "2026-02-23T14:04:53.722Z",
+  "lastUpdated": "2026-02-23T14:07:57.580Z",
   "updatedBy": "Saghir Hussain",
   "totalProducts": 19
 }
