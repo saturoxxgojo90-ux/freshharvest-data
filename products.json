@@ -95,7 +95,7 @@
       "category": "fruits",
       "description": "Juicy oranges rich in Vitamin C.",
       "image": "https://images.unsplash.com/photo-1547514701-42782101795e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
-      "availability": "seasonal",
+      "availability": "out-of-stock",
       "priceOptions": [
         {
           "label": "Kg",
@@ -448,7 +448,7 @@
       "defaultUnit": "kg"
     }
   ],
-  "lastUpdated": "2026-02-23T14:23:28.166Z",
+  "lastUpdated": "2026-02-23T14:24:16.299Z",
   "updatedBy": "Admin",
   "totalProducts": 19
 }
