@@ -341,17 +341,12 @@
       "priceOptions": [
         {
           "label": "Per kg",
-          "price": 800,
+          "price": 899,
           "unit": "kg"
         },
         {
-          "label": "250g",
-          "price": 220,
-          "unit": "250g"
-        },
-        {
           "label": "500g",
-          "price": 420,
+          "price": 459,
           "unit": "500g"
         }
       ],
@@ -457,7 +452,7 @@
       "defaultUnit": "kg"
     }
   ],
-  "lastUpdated": "2026-02-23T14:14:15.116Z",
-  "updatedBy": "Saghir Hussain",
+  "lastUpdated": "2026-02-23T14:17:53.525Z",
+  "updatedBy": "Admin",
   "totalProducts": 19
 }
