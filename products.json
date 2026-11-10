@@ -10,7 +10,7 @@
       "priceOptions": [
         {
           "label": "Per kg",
-          "price": 450,
+          "price": 451,
           "unit": "kg"
         },
         {
@@ -448,7 +448,7 @@
       "defaultUnit": "kg"
     }
   ],
-  "lastUpdated": "2026-11-10T14:08:25.270Z",
+  "lastUpdated": "2026-11-10T17:44:26.322Z",
   "updatedBy": "Muhammad Taha",
   "totalProducts": 19
 }
