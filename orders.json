@@ -153,7 +153,7 @@
       "delivery": 150,
       "total": 1020,
       "timestamp": "2026-11-10T17:58:35.911Z",
-      "status": "delivered",
+      "status": "pending",
       "userId": 1794333104174
     },
     {
@@ -179,7 +179,7 @@
       "delivery": 150,
       "total": 1020,
       "timestamp": "2026-11-10T17:59:13.300Z",
-      "status": "pending",
+      "status": "shipped",
       "userId": 1794333104174
     },
     {
@@ -235,6 +235,6 @@
       "userId": "103195624791339860934"
     }
   ],
-  "lastUpdated": "2026-11-12T17:52:53.932Z",
+  "lastUpdated": "2026-11-12T17:53:07.013Z",
   "totalOrders": 9
 }
