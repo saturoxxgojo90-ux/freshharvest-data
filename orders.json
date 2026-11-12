@@ -231,10 +231,10 @@
       "delivery": 150,
       "total": 440,
       "timestamp": "2026-11-12T17:00:39.918Z",
-      "status": "cancelled",
+      "status": "pending",
       "userId": "103195624791339860934"
     }
   ],
-  "lastUpdated": "2026-11-12T17:53:20.322Z",
+  "lastUpdated": "2026-11-12T17:53:25.347Z",
   "totalOrders": 9
 }
